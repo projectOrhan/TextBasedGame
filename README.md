@@ -7,7 +7,7 @@ Psikolojik gerilim teması üzerine kurulu ve seçimlerinizi dikkate alarak sizl
 Adımlarınızın sizi farklı gerçekliklere götürdüğünü hissediyor olacaksınız. <br><br>
 It is based on the theme of psychological thriller and has a structure that prepares alternative endings for you by considering your choices.<br>
 You will feel that your steps take you to different realities. 
-<br>
+<br><br>
 Oyunda farklı farklı sonlara ulaşarak hikayedeki parçaları birleştirebilirsiniz.<br>
 You can connect the pieces of the story by reaching different endings in the game.
 
