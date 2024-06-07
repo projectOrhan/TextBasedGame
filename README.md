@@ -4,7 +4,7 @@ It is one of my Text Based game design examples with 17 different endings on Flu
 
 ## Oyunun Hakkında 
 Psikolojik gerilim teması üzerine kurulu ve seçimlerinizi dikkate alarak sizlere alternatif sonlar hazırlayan bir yapısı var.<br>
-Adımlarınızın sizi farklı gerçekliklere götürdüğünü hissediyor olacaksınız. <br>
+Adımlarınızın sizi farklı gerçekliklere götürdüğünü hissediyor olacaksınız. <br><br>
 It is based on the theme of psychological thriller and has a structure that prepares alternative endings for you by considering your choices.<br>
 You will feel that your steps take you to different realities. 
 
