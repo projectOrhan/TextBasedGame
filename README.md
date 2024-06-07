@@ -1,6 +1,6 @@
 # TextBasedGame
 Flutter üzerinde 17 farklı sona sahip Text Tabanlı bir oyun tasarımı örneğimdir. Hikayesi vesaire tamamen kendi kurgumdur.<br>
-It is one of my Text Based game design examples with 17 different endings on Flutter. The story and so on is my own fiction. 
+It is my Text Based game design example with 17 different endings on Flutter. The story and so on is my own fiction. 
 
 ## Oyunun Hakkında 
 Psikolojik gerilim teması üzerine kurulu ve seçimlerinizi dikkate alarak sizlere alternatif sonlar hazırlayan bir yapısı var.<br>
